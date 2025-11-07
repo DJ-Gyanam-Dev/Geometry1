@@ -1,4 +1,4 @@
-//This class declares an object of type box
+//This class declares an object of type Box
 class BoxDemo{
     public static void main(String[] args) {
         Box mybox1 = new Box();
