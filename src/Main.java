@@ -6,6 +6,7 @@ class BoxDemo{
         double vol;
 
         //assigning values to mybox1's instance variables
+        
         mybox1.width=5;
         mybox1.height=4;
         mybox1.depth=3;
